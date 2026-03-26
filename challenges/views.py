@@ -9,3 +9,7 @@ def january(request):
 
 def february(request):
     return HttpResponse("Learn 200 words of a new language!")
+
+
+def march(request):
+    return HttpResponse("Follow a vegetarian diet for the whole month!")
