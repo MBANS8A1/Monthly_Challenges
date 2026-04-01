@@ -15,7 +15,7 @@ monthly_challenges = {
     "september": "Create a discord channel for Python programming!",
     "october": "Create a social media account for you programming work!",
     "november": "Read a new novel from your favourite genre!",
-    "december": "Cook something else for Christmas other than turkey!"
+    "december": None
 }
 
 
