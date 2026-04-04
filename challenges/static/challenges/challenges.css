@@ -10,6 +10,7 @@ ul{
     flex-direction: column;
     flex-wrap: wrap;
     height: 55rem;
+    background-color:#eeeeee;
 }
 
 
