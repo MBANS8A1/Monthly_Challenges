@@ -16,12 +16,13 @@ header nav{
 header nav a{
     color: #eee;
     font-size: 1.9rem;
-    font-weight: bold
+    font-weight: bold;
+    text-decoration: none;
 }
 
 header nav a:hover,
 header nav a:active
 {
-    color: #7e0253;
+    color: #cf54a5;
 
 }
